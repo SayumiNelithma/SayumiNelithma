@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayumi Nelithma</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sayuminelithma&label=Profile%20views&color=0e75b6&style=flat" alt="sayuminelithma" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
 
 
 

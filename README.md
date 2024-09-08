@@ -3,15 +3,6 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 
-- 🔭 I’m currently working on **Java**
-
-- 🌱 I’m currently learning **MERN stack**
-
-- 💬 Ask me about **OOC**
-
-- 📫 How to reach me **sayuminelithma@gmail.com**
-
-- ⚡ Fun fact **😎**
 
 - ---
 

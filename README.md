@@ -69,15 +69,15 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SayumiNelithma&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" />
 </p>
-
+</br>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SayumiNelithma&show_icons=true&theme=dark&locale=en" />
 </p>
-
+</br>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SayumiNelithma&theme=dark" />
 </p>
-
+</br>
 ---
 
 <p align="center">

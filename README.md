@@ -20,7 +20,7 @@
 
 - 📫 Reach me at **sayuminelithma@gmail.com**
 
-</br>
+</br></br>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50" /> <b><i>Building dreams one line of code at a time 💡🚀</i></b> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" />
 

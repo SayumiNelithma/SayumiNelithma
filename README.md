@@ -65,7 +65,7 @@
 ---
 
 <h3>📊 My GitHub Stats</h3>
-
+</br>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SayumiNelithma&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10" />
 </p>
@@ -77,7 +77,7 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SayumiNelithma&theme=dark" />
 </p>
-</br>
+</br></br>
 
 
 <p align="center">
